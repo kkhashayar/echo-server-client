@@ -1,3 +1,3 @@
 # echo-server-client
 
-using socket modul to create echo server-client on local machine 
+using socket module to create echo server-client on local machine 
